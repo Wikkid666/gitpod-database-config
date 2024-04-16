@@ -1,6 +1,6 @@
 # Code Institute
 
-Welcome USER_NAME,
+Welcome Jayr0bins0n
 
 We have preinstalled all of the tools you need to get started.
 
